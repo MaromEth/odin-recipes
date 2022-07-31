@@ -1,0 +1,1 @@
+This is a website project that involves storing some recipes on the page.
