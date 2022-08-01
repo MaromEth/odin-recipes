@@ -1,0 +1,22 @@
+div {
+    color: black;
+    background-color: black;
+  }
+  
+  h1 {
+    color: red;
+  }
+  img {height: 400px;
+       width: auto;
+}
+    a {
+        color: red;
+        background-color: black;
+    }
+
+#ingredients {
+    color:bisque;
+}
+*{
+    background-color: grey;
+}
